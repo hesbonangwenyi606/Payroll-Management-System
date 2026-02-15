@@ -28,7 +28,7 @@ This application allows employers to calculate employee salary, tax, pension, de
 
 ```bash
 git clone <git@github.com:hesbonangwenyi606/Payroll-Management-System.git>
-cd Payroll\ Management\ System/advancePayrollManagementSystemtechprofree
+cd PayrollManagementSystemt
 
 ## Install Required Packages
 If using Linux / WSL:
