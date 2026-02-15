@@ -31,3 +31,8 @@ This application allows employers to calculate employee salary, tax, pension, de
 ```bash
 git clone <your-repository-url>
 cd Payroll\ Management\ System/advancePayrollManagementSystemtechprofree
+
+Install Required Packages
+If using Linux / WSL:
+sudo apt update
+sudo apt install python3 python3-tk
