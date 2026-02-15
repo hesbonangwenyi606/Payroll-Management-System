@@ -36,3 +36,6 @@ cd Payroll\ Management\ System/advancePayrollManagementSystemtechprofree
 If using Linux / WSL:
 sudo apt update
 sudo apt install python3 python3-tk
+
+## Run the Application
+python3 main.py
