@@ -42,3 +42,10 @@ python3 main.py
 
 or on Windows:
 python main.py
+
+### Salary Calculation Logic
+Tax: 30%
+Student Loan: 2%
+Pension: 1.2%
+NI Payment: 2.1%
+Net Pay = Gross Pay - Total Deductions
