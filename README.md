@@ -39,3 +39,6 @@ sudo apt install python3 python3-tk
 
 ## Run the Application
 python3 main.py
+
+or on Windows:
+python main.py
