@@ -25,9 +25,8 @@ This application allows employers to calculate employee salary, tax, pension, de
 ## 📦 Installation & Setup
 
 ### 1️⃣ Clone the repository
-
 ```bash
-git clone <git@github.com:hesbonangwenyi606/Payroll-Management-System.git>
+git clone git@github.com:hesbonangwenyi606/Payroll-Management-System.git
 cd PayrollManagementSystemt
 
 ## Install Required Packages
