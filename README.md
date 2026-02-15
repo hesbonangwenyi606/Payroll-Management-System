@@ -1,12 +1,10 @@
 # Payroll Management System (Tkinter)
-
 A desktop-based Payroll Management System built using Python and Tkinter.  
 This application allows employers to calculate employee salary, tax, pension, deductions, and net pay through a graphical user interface.
 
----
+--
 
-## 🚀 Features
-
+## Features
 - Employee information input
 - Automatic salary calculations
 - Tax, Pension, NI, Student Loan calculation
